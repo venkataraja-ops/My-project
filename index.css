@@ -1,0 +1,10 @@
+.button_1{
+    color:white;
+    background-color: blue;
+    shape-margin: 0.50px;
+    max-width: fit-content;
+}
+
+#Header_1{
+    color: rgb(200, 0, 0);
+}
