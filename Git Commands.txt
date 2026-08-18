@@ -1,0 +1,14 @@
+git echo READ.ME--creates a readme file
+git init--git initiated
+git add--add the files
+git commit--changes added to git hub repository
+git push--files pushed into git
+git clone--already created project url will open in our local system
+git branch--creates to file branch 
+git pull--any changes in repository but not vs code pull used to modify the vscode
+git status--show what updated
+git log---show all activites in git
+git branch <branchname>--used to create a branch
+git branch -b<brachname>--used to create another branch
+git switch<branchname>--used to switch to another branch
+git branch -d--used to delete branch
